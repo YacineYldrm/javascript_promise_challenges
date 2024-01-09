@@ -12,6 +12,6 @@ function doubleNum (num) {
     });
 };
 
-doubleNum("scafsf")
+doubleNum(4)
     .then(result => console.log(result))
     .catch(err => console.log(err));
